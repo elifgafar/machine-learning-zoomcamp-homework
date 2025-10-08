@@ -1,4 +1,4 @@
-# machine-learning-zoomcamp-homework
+# Machine Learning Zoomcamp
 
 Hello Hello!
 
